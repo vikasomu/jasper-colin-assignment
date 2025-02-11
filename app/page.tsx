@@ -7,7 +7,9 @@ export default function Home() {
         <ModeToggle />
       </div>
 
-      <h1 className="text-[28px] font-[500]">Jasper Colin Assignment</h1>
+      <h1 className="text-[20px] sm:text-[18px] md:text-[28px] font-[500] text-center">
+        Jasper Colin Assignment
+      </h1>
     </div>
   );
 }
